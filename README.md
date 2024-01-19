@@ -1,0 +1,2 @@
+# Eazylog
+Eazylog Project
